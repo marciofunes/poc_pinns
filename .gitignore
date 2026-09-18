@@ -1,0 +1,12 @@
+pinns/
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+*.p*
+*.pth
+*.h5
